@@ -1,0 +1,75 @@
+Offset(P)          Proto    Local Address                  Foreign Address      State            Pid      Owner          Created
+0x3dbc9220         UDPv4    0.0.0.0:0                      *:*                                   928      svchost.exe    2013-03-23 02:08:08 UTC+0000
+0x3dbc9220         UDPv6    :::0                           *:*                                   928      svchost.exe    2013-03-23 02:08:08 UTC+0000
+0x3dc1f200         UDPv6    fe80::8d6c:6bb:70e9:34d4:1900  *:*                                   1352     svchost.exe    2013-03-23 02:04:45 UTC+0000
+0x3dc1f920         UDPv6    ::1:1900                       *:*                                   1352     svchost.exe    2013-03-23 02:04:45 UTC+0000
+0x3dc402a0         UDPv4    0.0.0.0:0                      *:*                                   788      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3dc402a0         UDPv6    :::0                           *:*                                   788      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3dc7b490         UDPv4    0.0.0.0:51754                  *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3dc7bcb0         UDPv4    0.0.0.0:0                      *:*                                   788      svchost.exe    2013-03-23 02:07:34 UTC+0000
+0x3dd013b0         UDPv4    0.0.0.0:63630                  *:*                                   828      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3dc717f0         TCPv4    192.168.1.104:49163            184.28.16.48:80      ESTABLISHED      928      svchost.exe    
+0x3dc78110         TCPv6    -:0                            38db:e201:80fa:ffff:38db:e201:80fa:ffff:0 CLOSED           1044     TrustedInstall 
+0x3dc98010         TCPv4    192.168.1.104:49166            65.55.184.155:443    ESTABLISHED      928      svchost.exe    
+0x3e0b2ba0         UDPv4    192.168.1.104:138              *:*                                   4        System         2013-03-23 02:03:29 UTC+0000
+0x3e1a7ec0         UDPv4    0.0.0.0:0                      *:*                                   928      svchost.exe    2013-03-23 02:08:11 UTC+0000
+0x3e1a7ec0         UDPv6    :::0                           *:*                                   928      svchost.exe    2013-03-23 02:08:11 UTC+0000
+0x3e3c9e00         UDPv4    0.0.0.0:0                      *:*                                   828      svchost.exe    2013-03-23 02:03:52 UTC+0000
+0x3e3c9e00         UDPv6    :::0                           *:*                                   828      svchost.exe    2013-03-23 02:03:52 UTC+0000
+0x3e3eb400         UDPv4    0.0.0.0:0                      *:*                                   788      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3e3eb400         UDPv6    :::0                           *:*                                   788      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3e0cf220         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        492      lsass.exe      
+0x3e0d04b0         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        668      svchost.exe    
+0x3e0d04b0         TCPv6    :::135                         :::0                 LISTENING        668      svchost.exe    
+0x3e0dd010         TCPv4    0.0.0.0:135                    0.0.0.0:0            LISTENING        668      svchost.exe    
+0x3e109510         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        388      wininit.exe    
+0x3e133570         TCPv4    0.0.0.0:49152                  0.0.0.0:0            LISTENING        388      wininit.exe    
+0x3e133570         TCPv6    :::49152                       :::0                 LISTENING        388      wininit.exe    
+0x3e160010         TCPv4    0.0.0.0:49153                  0.0.0.0:0            LISTENING        492      lsass.exe      
+0x3e160010         TCPv6    :::49153                       :::0                 LISTENING        492      lsass.exe      
+0x3e0a8510         TCPv4    -:0                            104.48.168.2:0       CLOSED           1        ???????       
+0x3e1572c0         TCPv6    -:0                            383b:b602:80fa:ffff:383b:b602:80fa:ffff:0 CLOSED           1        ???????       
+0x3ea0c9a0         UDPv4    192.168.1.104:137              *:*                                   4        System         2013-03-23 02:03:29 UTC+0000
+0x3ea52310         UDPv4    0.0.0.0:5355                   *:*                                   828      svchost.exe    2013-03-23 02:03:52 UTC+0000
+0x3ea52310         UDPv6    :::5355                        *:*                                   828      svchost.exe    2013-03-23 02:03:52 UTC+0000
+0x3eaa5320         UDPv4    0.0.0.0:0                      *:*                                   928      svchost.exe    2013-03-23 02:08:11 UTC+0000
+0x3eb6c670         UDPv4    0.0.0.0:0                      *:*                                   788      svchost.exe    2013-03-23 02:08:08 UTC+0000
+0x3eb6c670         UDPv6    :::0                           *:*                                   788      svchost.exe    2013-03-23 02:08:08 UTC+0000
+0x3ec8cc10         UDPv4    0.0.0.0:0                      *:*                                   788      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3ecb03c0         UDPv4    0.0.0.0:0                      *:*                                   788      svchost.exe    2013-03-23 02:07:34 UTC+0000
+0x3ecb03c0         UDPv6    :::0                           *:*                                   788      svchost.exe    2013-03-23 02:07:34 UTC+0000
+0x3ed57bf0         UDPv4    0.0.0.0:5355                   *:*                                   828      svchost.exe    2013-03-23 02:03:52 UTC+0000
+0x3ed8c4c0         UDPv6    ::1:51752                      *:*                                   1352     svchost.exe    2013-03-23 02:04:45 UTC+0000
+0x3ee084a0         UDPv4    0.0.0.0:3702                   *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3ee7a480         UDPv4    0.0.0.0:51755                  *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3ee7a480         UDPv6    :::51755                       *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3ee8cc70         UDPv4    0.0.0.0:0                      *:*                                   928      svchost.exe    2013-03-23 02:08:11 UTC+0000
+0x3eef3c20         UDPv4    0.0.0.0:3702                   *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3eef3c20         UDPv6    :::3702                        *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3eef3ec0         UDPv4    0.0.0.0:3702                   *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3f1a5a50         UDPv4    0.0.0.0:60233                  *:*                                   828      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3f1a5a50         UDPv6    :::60233                       *:*                                   828      svchost.exe    2013-03-23 02:08:03 UTC+0000
+0x3f1c3430         UDPv4    127.0.0.1:51753                *:*                                   1352     svchost.exe    2013-03-23 02:04:45 UTC+0000
+0x3ea56c90         TCPv4    0.0.0.0:445                    0.0.0.0:0            LISTENING        4        System         
+0x3ea56c90         TCPv6    :::445                         :::0                 LISTENING        4        System         
+0x3eada010         TCPv4    192.168.1.104:139              0.0.0.0:0            LISTENING        4        System         
+0x3ecac460         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        476      services.exe   
+0x3ecac460         TCPv6    :::49156                       :::0                 LISTENING        476      services.exe   
+0x3ecb4790         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        980      svchost.exe    
+0x3ecb4790         TCPv6    :::49154                       :::0                 LISTENING        980      svchost.exe    
+0x3ecf1250         TCPv4    0.0.0.0:49156                  0.0.0.0:0            LISTENING        476      services.exe   
+0x3ee6f2d0         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        928      svchost.exe    
+0x3ee6f2d0         TCPv6    :::49155                       :::0                 LISTENING        928      svchost.exe    
+0x3ee6f5d0         TCPv4    0.0.0.0:49155                  0.0.0.0:0            LISTENING        928      svchost.exe    
+0x3eec61d0         TCPv4    0.0.0.0:5357                   0.0.0.0:0            LISTENING        4        System         
+0x3eec61d0         TCPv6    :::5357                        :::0                 LISTENING        4        System         
+0x3ed24cf0         TCPv4    192.168.1.104:49164            184.28.16.58:80      ESTABLISHED      928      svchost.exe    
+0x3ee459c0         TCPv4    -:0                            56.219.226.1:0       CLOSED           928      svchost.exe    
+0x3ef02a60         TCPv4    192.168.1.104:49165            65.55.184.155:80     ESTABLISHED      928      svchost.exe    
+0x3ff25210         UDPv4    192.168.1.104:1900             *:*                                   1352     svchost.exe    2013-03-23 02:04:45 UTC+0000
+0x3ff25a60         UDPv4    127.0.0.1:1900                 *:*                                   1352     svchost.exe    2013-03-23 02:04:45 UTC+0000
+0x3ffe4270         UDPv4    0.0.0.0:3702                   *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3ffe4270         UDPv6    :::3702                        *:*                                   1352     svchost.exe    2013-03-23 02:05:47 UTC+0000
+0x3ffde330         TCPv4    0.0.0.0:49154                  0.0.0.0:0            LISTENING        980      svchost.exe    
+
+
